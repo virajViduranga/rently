@@ -1,0 +1,15 @@
+package com.rently.rently_backend.model.enums;
+
+public enum Role {
+    GUEST,
+    CUSTOMER,
+    INDIVIDUAL_ITEM_PROVIDER,
+    SERVICE_PROVIDER,
+    BUSINESS_PROVIDER,
+    ORG_STAFF_DISPATCHER,
+    CUSTOMER_SUPPORT_AGENT,
+    TRUST_SAFETY_MODERATOR,
+    FINANCE_ESCROW_OFFICER,
+    SUPER_ADMIN
+}
+
